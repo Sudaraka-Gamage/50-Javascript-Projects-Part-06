@@ -16,6 +16,7 @@
 # movie-app
 ![Screenshot (2005)](https://user-images.githubusercontent.com/86683029/196078922-8854e770-d8f5-4005-b783-f5cbc54c314c.png)
 ![Screenshot (2006)](https://user-images.githubusercontent.com/86683029/196078974-efae50a8-3103-4251-99b8-d11d496566ba.png)
+![Screenshot (2007)](https://user-images.githubusercontent.com/86683029/196079024-eb7f2be1-122d-4d89-8146-cbed4590568e.png)
 
 # netflix-navigation
 
