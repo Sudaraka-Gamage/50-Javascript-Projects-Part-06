@@ -8,6 +8,10 @@
 ![Screenshot (2000)](https://user-images.githubusercontent.com/86683029/196078574-b01c8cdd-26a9-49f1-807d-60326bb4104f.png)
 
 # mobile-tab-nav
+![Screenshot (2001)](https://user-images.githubusercontent.com/86683029/196078715-87a2b7fb-b4eb-4ce4-9c98-210b913f260e.png)
+![Screenshot (2002)](https://user-images.githubusercontent.com/86683029/196078732-6db98b34-f754-41ec-b629-4e8b9d2c9141.png)
+![Screenshot (2003)](https://user-images.githubusercontent.com/86683029/196078734-e0650028-e02b-4a17-b6a6-891b3ba321a0.png)
+![Screenshot (2004)](https://user-images.githubusercontent.com/86683029/196078742-5a0ac81d-fa52-46d2-9318-425760770c7c.png)
 
 # movie-app
 
